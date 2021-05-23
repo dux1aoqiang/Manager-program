@@ -1,2 +1,3 @@
 # Manager-program
-- this program in 
+- under the main
+- this program in master
